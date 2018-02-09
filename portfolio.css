@@ -1,0 +1,141 @@
+body {
+	margin-left: 200px;
+	margin-right: 80px;
+	padding: 40px;
+	border-left-style: solid;
+	border-left-size: 0.5px;
+}
+h2 {
+	font-size: 24px;
+}
+#button1,
+#button2,
+#button3,
+#button4 {
+	border-radius: 8px;
+	border: none;
+	padding: 10px;
+	margin-top: 4px;
+}
+#button1 {
+	background-color: #00695c;
+	color: white;
+}
+#button1:hover {
+	background-color: white;
+	color: #00695c;
+}
+#button2 {
+	background-color: #2e7d32;
+	color: white;
+}
+#button2:hover {
+	background-color: white;
+	color: #2e7d32;
+}
+#button3 {
+	background-color: #ff8f00;
+	color: white;
+}
+#button3:hover {
+	background-color: white;
+	color: #ff8f00;
+}
+#button4 {
+	background-color: #5d4037;
+	color: white;
+}
+#button4:hover {
+	background-color: white;
+	color: #5d4037;
+}
+#picture {
+	border-radius: 8px;
+	float: right;
+	margin-right: 50px;
+	margin-left: 15px;
+}
+#fblink,
+#codepen,
+#ravelry {
+	border-radius: 8px;
+	border: none;
+	padding: 10px;
+}
+#fblink {
+	background-color: #00695c;
+	color: white;
+}
+#fblink:hover {
+	background-color: white;
+	color: #00695c;
+}
+#codepen {
+	background-color: #2e7d32;
+	color: white;
+}
+#codepen:hover {
+	background-color: white;
+	color: #2e7d32;
+}
+#ravelry {
+	background-color: #ff8f00;
+	color: white;
+}
+#ravelry:hover {
+	background-color: white;
+	color: #ff8f00;
+}
+#nav {
+	position: fixed;
+	float: left;
+	margin-left: -133px;
+	text-align: right;
+}
+#credits {
+	text-align: center;
+	font-size: 14px;
+}
+#submit {
+	border-radius: 8px;
+	background-color: #5d4037;
+	color: white;
+	border: none;
+	margin-top: 4px;
+	padding: 10px;
+}
+#submit:hover {
+	background-color: white;
+	color: #5d4037;
+}
+#clear-form {
+	background-color: #5d4037;
+	color: white;
+	border-radius: 8px;
+	margin-top: 4px;
+	padding: 10px;
+	border: none;
+	margin-left: -3px;
+}
+#clear-form:hover {
+	color: #5d4037;
+	background-color: white;
+}
+input {
+	border: solid 0.5px;
+	border-radius: 8px;
+	margin: 4px;
+	border-color: #5d4037;
+	text-align: left;
+}
+input:focus {
+	border: solid 2px;
+	border-radius: 8px;
+	margin: 4px;
+	border-color: #5d4037;
+}
+#contact {
+	float: right;
+	margin-right: 100px;
+	padding-left: 15px;
+}
